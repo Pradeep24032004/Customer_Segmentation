@@ -15,4 +15,7 @@ In this customer segmentation project, we utilized the K-means clustering algori
 
 ![Screenshot (329)](https://github.com/Pradeep24032004/Customer_Segmentation/assets/118010705/1fc1274c-1502-46c1-9085-8c7d58dc9891)
 
+
+## Visualisation of Graph into 5 customer segments based on annual income and spending score
+
 ![Screenshot (328)](https://github.com/Pradeep24032004/Customer_Segmentation/assets/118010705/d10c1ed2-a907-4e86-a18c-ecd831fd7708)
